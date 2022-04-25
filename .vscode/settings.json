@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "limits": "c",
+        "unistd.h": "c",
+        "interface.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "socket.h": "c"
+    }
+}
